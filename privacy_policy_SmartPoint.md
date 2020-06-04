@@ -21,13 +21,13 @@ Link to privacy policy of third party service providers used by the app
 
 **Log Data**
 
-[I/We] want to inform you that whenever you use [my/our] Service, in a case of an error in the app [I/We] collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (ìIPî) address, device name, operating system version, the configuration of the app when utilizing [my/our] Service, the time and date of your use of the Service, and other statistics.
+[I/We] want to inform you that whenever you use [my/our] Service, in a case of an error in the app [I/We] collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (‚ÄúIP‚Äù) address, device name, operating system version, the configuration of the app when utilizing [my/our] Service, the time and date of your use of the Service, and other statistics.
 
 **Cookies**
 
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-This Service does not use these ìcookiesî explicitly. However, the app may use third party code and libraries that use ìcookiesî to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+This Service does not use these ‚Äúcookies‚Äù explicitly. However, the app may use third party code and libraries that use ‚Äúcookies‚Äù to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
 **Service Providers**
 
@@ -48,7 +48,7 @@ This Service does not use these ìcookiesî explicitly. However, the app may use t
 
 This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by [me/us]. Therefore, [I/We] strongly advise you to review the Privacy Policy of these websites. [I/We] have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
-**Childrenís Privacy**
+**Children‚Äôs Privacy**
 
 These Services do not address anyone under the age of 13. [I/We] do not knowingly collect personally identifiable information from children under 13\. In the case [I/We] discover that a child under 13 has provided [me/us] with personal information, [I/We] immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact [me/us] so that [I/We] will be able to do necessary actions.
 
